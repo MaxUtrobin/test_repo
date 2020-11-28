@@ -1,0 +1,4 @@
+git branch 
+git checkout -b develop = переключение на созданую ветку develop
+git log --graph  = история комитов
+git push origin head = залить ветку на гит хаб
